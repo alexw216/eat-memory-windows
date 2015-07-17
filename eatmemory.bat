@@ -1,0 +1,1 @@
+while [ 1 ] ; do eatmemory.exe 4G ; done
